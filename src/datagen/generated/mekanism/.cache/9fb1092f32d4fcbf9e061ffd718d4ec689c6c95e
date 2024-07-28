@@ -1,4 +1,4 @@
-// 1.21	2024-07-27T16:03:12.7844048	Recipes
+// 1.21	2024-07-28T12:22:35.9157702	Recipes
 0fc9e539372429b3e5df0dc0595978c4fc45d201 data/mekanism/recipe/antiprotonic_nucleosynthesizer.json
 6d20b08ca1cc993d4c39a761361dce522fe45a7a data/mekanism/recipe/atomic_disassembler.json
 00928ea6e8b57d257c773343c0dc0d337c9d4f5f data/mekanism/recipe/bin/advanced.json
@@ -375,6 +375,9 @@ a9573c859acfece3f9b89c5b21ad7d4785e8c536 data/mekanism/recipe/compat/biomesoplen
 978e93ebc4736e97f49675ef33acf9f700f17631 data/mekanism/recipe/control_circuit/advanced.json
 59dcdad611fb3168ceb4f69f7c863d9ceea7fc75 data/mekanism/recipe/control_circuit/basic.json
 c1820aeebce95092c3dee0d3bd0f825e9d18be46 data/mekanism/recipe/control_circuit/elite.json
+d1e7a044b38329f3fda09f66c2eebe855c966082 data/mekanism/recipe/control_circuit/infused_advanced.json
+32f74b91c3e64f78f6b26f1b34640c4b50839ff4 data/mekanism/recipe/control_circuit/infused_elite.json
+796f5d01ad0b015ad00e254ff9c39d11d2f98165 data/mekanism/recipe/control_circuit/infused_ultimate.json
 78ad6052118d53e0244e7fbc31dfc825176398b4 data/mekanism/recipe/control_circuit/ultimate.json
 e24bc3bf593ef401ec48ec119bfade472d9ccff7 data/mekanism/recipe/crafting_formula.json
 706f403b5c9c307dd34dbd4653938464aff67073 data/mekanism/recipe/crusher.json
