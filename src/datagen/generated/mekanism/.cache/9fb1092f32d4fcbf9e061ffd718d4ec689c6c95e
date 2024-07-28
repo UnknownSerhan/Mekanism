@@ -1,4 +1,4 @@
-// 1.21	2024-07-28T12:22:35.9157702	Recipes
+// 1.21	2024-07-28T12:25:11.0515171	Recipes
 0fc9e539372429b3e5df0dc0595978c4fc45d201 data/mekanism/recipe/antiprotonic_nucleosynthesizer.json
 6d20b08ca1cc993d4c39a761361dce522fe45a7a data/mekanism/recipe/atomic_disassembler.json
 00928ea6e8b57d257c773343c0dc0d337c9d4f5f data/mekanism/recipe/bin/advanced.json
@@ -920,6 +920,7 @@ c6cd2fd37aab4730caf0cbee9ad07b09e0591c47 data/mekanism/recipe/mekasuit_pants.jso
 214b255b24034be3e122e947d3752cecfad5007e data/mekanism/recipe/metallurgic_infuser.json
 b68bd5c3b900d9785322a37950819a0acbe17c4f data/mekanism/recipe/metallurgic_infusing/alloy/atomic.json
 3ecf298bef606fbb90ebfb88fb69febb75252c93 data/mekanism/recipe/metallurgic_infusing/alloy/infused.json
+39bb3486575988dc030f2fc0dc3418eeab89e95b data/mekanism/recipe/metallurgic_infusing/alloy/infused_copper.json
 8cb06c004f403a4a61b75e7ae94f8aa314e2c297 data/mekanism/recipe/metallurgic_infusing/alloy/reinforced.json
 920faaff5886f7061c1eed632e745d53fb53c121 data/mekanism/recipe/metallurgic_infusing/blackstone_to_gilded_blackstone.json
 15e48031d29dbffa526dfeeca4e9d5c39baf7b40 data/mekanism/recipe/metallurgic_infusing/clay_to_slime_ball.json
