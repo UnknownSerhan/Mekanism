@@ -10,15 +10,17 @@ public class DefenseConfig extends BaseMekanismConfig {
 
     DefenseConfig() {
         ModConfigSpec.Builder builder = new ModConfigSpec.Builder();
-        DefenseConfigTranslations.SERVER_TOP_LEVEL.applyToBuilder(builder).push("defense");
-
-        builder.pop();
         configSpec = builder.build();
     }
 
     @Override
     public String getFileName() {
         return "defense";
+    }
+
+    @Override
+    public String getTranslation() {
+        return "General Config";
     }
 
     @Override

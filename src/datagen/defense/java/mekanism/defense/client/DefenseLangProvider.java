@@ -4,6 +4,7 @@ import mekanism.client.lang.BaseLanguageProvider;
 import mekanism.defense.common.DefenseLang;
 import mekanism.defense.common.MekanismDefense;
 import mekanism.defense.common.config.DefenseConfigTranslations;
+import mekanism.defense.common.config.MekanismDefenseConfig;
 import net.minecraft.data.PackOutput;
 
 public class DefenseLangProvider extends BaseLanguageProvider {
@@ -14,6 +15,7 @@ public class DefenseLangProvider extends BaseLanguageProvider {
 
     @Override
     protected void addTranslations() {
+        addConfigs(MekanismDefenseConfig.getConfigs());
         addConfigs(DefenseConfigTranslations.values());
         addMisc();
     }

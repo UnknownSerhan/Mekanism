@@ -1,8 +1,9 @@
 {
-  "configuration.mekanismdefense.server": "ᵷᴉɟuoƆ ǝsuǝɟǝᗡ ɯsᴉuɐʞǝW",
-  "configuration.mekanismdefense.server.tooltip": "˙ʇuǝᴉꞁɔ puɐ ɹǝʌɹǝs uǝǝʍʇǝq pǝɔuʎs sᴉ ᵷᴉɟuoɔ sᴉɥ⟘ ˙ᵷᴉɟuoƆ ǝsuǝɟǝᗡ ɯsᴉuɐʞǝW",
   "constants.mekanismdefense.mod_name": "ǝsuǝɟǝᗡ :ɯsᴉuɐʞǝW",
   "constants.mekanismdefense.pack_description": "ǝsuǝɟǝᗡ :ɯsᴉuɐʞǝW ɹoɟ pǝsn sǝɔɹnosǝᴚ",
   "fml.menu.mods.info.description.mekanismdefense": "ɯsᴉuɐʞǝW ɹoɟ ǝꞁnpoɯ ǝsuǝɟǝᗡ",
-  "fml.menu.mods.info.displayname.mekanismdefense": "ǝsuǝɟǝᗡ :ɯsᴉuɐʞǝW"
+  "fml.menu.mods.info.displayname.mekanismdefense": "ǝsuǝɟǝᗡ :ɯsᴉuɐʞǝW",
+  "mekanismdefense.configuration.section.mekanism.defense.toml": "ᵷᴉɟuoƆ ꞁɐɹǝuǝ⅁",
+  "mekanismdefense.configuration.section.mekanism.defense.toml.title": "ᵷᴉɟuoƆ ꞁɐɹǝuǝ⅁ - ǝsuǝɟǝᗡ :ɯsᴉuɐʞǝW",
+  "mekanismdefense.configuration.title": "ᵷᴉɟuoƆ ǝsuǝɟǝᗡ :ɯsᴉuɐʞǝW"
 }
